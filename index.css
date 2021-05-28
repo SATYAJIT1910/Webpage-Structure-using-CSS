@@ -1,0 +1,61 @@
+/*Designed by Satyajit follow on github @SATYAJIT1910*/
+#header{
+    display: flex;
+    background-color: #FFC8AE;
+    height: 90px;
+    flex-wrap: wrap;
+    flex-flow: column;
+    justify-content: center;
+}
+#nav{
+
+    height: 40px;
+    background-color: #E0FFA8;
+    border: 2px solid black;
+    position: relative;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+#main{
+    display: grid;
+    margin-top: 50px;
+    background-color: #FFC8AE;
+    height: 300px;
+    position: relative;
+    padding-top: 40px;
+}
+#article{
+
+    height: 250px;
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-right: 30%;
+    background-color: #DDDDDD;
+}
+#section{
+    margin:30px;
+    height:30px;
+    border:1px solid rgb(211, 60, 60);
+    background-color: #CCFFFF;
+}
+#footer{
+    margin-top: 50px;
+    display: flex;
+    background-color: #FFC8AE;
+    height: 90px;
+    flex-wrap: wrap;
+    flex-flow: column;
+    justify-content: center;
+
+}
+#aside{
+    background-color:#DDDDDD;
+    width: 70px;
+    height: 250px;
+    border:1px solid red;
+    position:absolute;
+    right: 0;
+    margin-top: 40px;
+
+}
